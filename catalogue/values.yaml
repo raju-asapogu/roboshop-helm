@@ -1,0 +1,3 @@
+deployment:
+  imageRepo: rajudocker526/catalogue
+  imageVersion: v1

@@ -1,0 +1,5 @@
+configmap:
+  mongoURL: "mongodb://mongodb:27017/catalogue"
+# deployment:
+#   imageRepo: rajudocker526/catalogue
+#   imageVersion: v1
